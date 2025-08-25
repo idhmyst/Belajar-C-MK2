@@ -1,0 +1,16 @@
+D:\KELAS XI\MK-2\Belajar C#\Belajar C#\bin\Debug\net8.0-windows\Belajar C#.exe
+D:\KELAS XI\MK-2\Belajar C#\Belajar C#\bin\Debug\net8.0-windows\Belajar C#.deps.json
+D:\KELAS XI\MK-2\Belajar C#\Belajar C#\bin\Debug\net8.0-windows\Belajar C#.runtimeconfig.json
+D:\KELAS XI\MK-2\Belajar C#\Belajar C#\bin\Debug\net8.0-windows\Belajar C#.dll
+D:\KELAS XI\MK-2\Belajar C#\Belajar C#\bin\Debug\net8.0-windows\Belajar C#.pdb
+D:\KELAS XI\MK-2\Belajar C#\Belajar C#\obj\Debug\net8.0-windows\Belajar C#.csproj.GenerateResource.cache
+D:\KELAS XI\MK-2\Belajar C#\Belajar C#\obj\Debug\net8.0-windows\Belajar C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\KELAS XI\MK-2\Belajar C#\Belajar C#\obj\Debug\net8.0-windows\Belajar C#.AssemblyInfoInputs.cache
+D:\KELAS XI\MK-2\Belajar C#\Belajar C#\obj\Debug\net8.0-windows\Belajar C#.AssemblyInfo.cs
+D:\KELAS XI\MK-2\Belajar C#\Belajar C#\obj\Debug\net8.0-windows\Belajar C#.csproj.CoreCompileInputs.cache
+D:\KELAS XI\MK-2\Belajar C#\Belajar C#\obj\Debug\net8.0-windows\Belajar C#.dll
+D:\KELAS XI\MK-2\Belajar C#\Belajar C#\obj\Debug\net8.0-windows\refint\Belajar C#.dll
+D:\KELAS XI\MK-2\Belajar C#\Belajar C#\obj\Debug\net8.0-windows\Belajar C#.pdb
+D:\KELAS XI\MK-2\Belajar C#\Belajar C#\obj\Debug\net8.0-windows\Belajar C#.genruntimeconfig.cache
+D:\KELAS XI\MK-2\Belajar C#\Belajar C#\obj\Debug\net8.0-windows\ref\Belajar C#.dll
+D:\KELAS XI\MK-2\Belajar C#\Belajar C#\obj\Debug\net8.0-windows\Belajar_C_.AplikasiBiodata.resources

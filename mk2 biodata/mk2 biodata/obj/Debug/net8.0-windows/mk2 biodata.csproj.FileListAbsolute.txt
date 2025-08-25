@@ -1,0 +1,16 @@
+D:\KELAS XI\MK-2\mk2 biodata\mk2 biodata\bin\Debug\net8.0-windows\mk2 biodata.exe
+D:\KELAS XI\MK-2\mk2 biodata\mk2 biodata\bin\Debug\net8.0-windows\mk2 biodata.deps.json
+D:\KELAS XI\MK-2\mk2 biodata\mk2 biodata\bin\Debug\net8.0-windows\mk2 biodata.runtimeconfig.json
+D:\KELAS XI\MK-2\mk2 biodata\mk2 biodata\bin\Debug\net8.0-windows\mk2 biodata.dll
+D:\KELAS XI\MK-2\mk2 biodata\mk2 biodata\bin\Debug\net8.0-windows\mk2 biodata.pdb
+D:\KELAS XI\MK-2\mk2 biodata\mk2 biodata\obj\Debug\net8.0-windows\mk2_biodata.Form1.resources
+D:\KELAS XI\MK-2\mk2 biodata\mk2 biodata\obj\Debug\net8.0-windows\mk2 biodata.csproj.GenerateResource.cache
+D:\KELAS XI\MK-2\mk2 biodata\mk2 biodata\obj\Debug\net8.0-windows\mk2 biodata.GeneratedMSBuildEditorConfig.editorconfig
+D:\KELAS XI\MK-2\mk2 biodata\mk2 biodata\obj\Debug\net8.0-windows\mk2 biodata.AssemblyInfoInputs.cache
+D:\KELAS XI\MK-2\mk2 biodata\mk2 biodata\obj\Debug\net8.0-windows\mk2 biodata.AssemblyInfo.cs
+D:\KELAS XI\MK-2\mk2 biodata\mk2 biodata\obj\Debug\net8.0-windows\mk2 biodata.csproj.CoreCompileInputs.cache
+D:\KELAS XI\MK-2\mk2 biodata\mk2 biodata\obj\Debug\net8.0-windows\mk2 biodata.dll
+D:\KELAS XI\MK-2\mk2 biodata\mk2 biodata\obj\Debug\net8.0-windows\refint\mk2 biodata.dll
+D:\KELAS XI\MK-2\mk2 biodata\mk2 biodata\obj\Debug\net8.0-windows\mk2 biodata.pdb
+D:\KELAS XI\MK-2\mk2 biodata\mk2 biodata\obj\Debug\net8.0-windows\mk2 biodata.genruntimeconfig.cache
+D:\KELAS XI\MK-2\mk2 biodata\mk2 biodata\obj\Debug\net8.0-windows\ref\mk2 biodata.dll
